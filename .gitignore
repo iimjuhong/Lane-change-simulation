@@ -1,0 +1,10 @@
+# MATLAB 관련 제외 파일
+*.asv
+*.slxc
+*.mex*
+*.log
+slprj/
+
+# 시뮬레이션 데이터 및 결과물
+*.mat
+*.mp4
